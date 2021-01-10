@@ -1,4 +1,5 @@
-# api
+# Vue Client for Spring Boot API 
+# gestionnaire produits
 
 ## Project setup
 ```
